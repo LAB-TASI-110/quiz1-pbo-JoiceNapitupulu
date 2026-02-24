@@ -1,0 +1,11 @@
+Prompt Gemini :
+bantu saya membuat program pada soal pada file T03.md menggunakan java dan dimana akan di kerjakan di file Driver3.Java di folder Driver. 
+sistem laundry pada del dipakai oleh mahasiswa it del. dimana asrama simon lapalace melaundry pakaian mereka pada hari senin, ada lovelace pada hari selasa, max planc pada hari rabu, rusun 4 pada hari kamis, asrama jati dan peniel jumat dan rusun tiga hari sabtu. semua laundry datang pada hari keesokan nya. contoh asrama rusun 4 pada hari kamis. maka laundry sampai pada jumat sore. pengantara selalu sampai pada hari sore. bantu untuk membuat sistem  yang kira kira bisa membantu laudry del
+bantu untuk compile
+error
+error
+pakai compile yag biasa aja gausa pakai slash
+kok gabisa
+bantuin masukin inputannya
+tambahin sistem history
+error

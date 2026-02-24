@@ -1,0 +1,7 @@
+Prompt Gemini :
+bantu saya membuat program pada soal pada file T02.md menggunakan java dan dimana akan di kerjakan di file Driver2.Java di folder Driver. pastikan kamu bisa membaca soal dengan jelas dan gambarnya.
+bukankah gender juga perlu diperhatikan dalam hal ini? kode kelompok dan pola nya
+sekarang bantu compile nya dari awal
+error
+still error. coba gausa pakai makefile. compile biasa saja yang javac
+ini inputannya engga sekali input enter? langsung saja copas?

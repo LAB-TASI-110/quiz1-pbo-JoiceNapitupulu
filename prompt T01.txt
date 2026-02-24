@@ -1,0 +1,11 @@
+Prompt Gemini :
+bantu saya membuat program pada soal pada file T01.md menggunakan java
+bantu test compile dulu, sesuai dengan contoh inputan
+compile awalnya apa. inputannya sekaligus seperti itu? tidak satu satu?
+error
+src apa perintah compile supaya langsung ke directory file
+nama file saya T01.java . pandu compile nya
+nama file saya Driver1.java . pandu compile nya
+error
+error
+emang beda ya sama expected outputnya?
